@@ -1,6 +1,6 @@
 import java.io.*;
 class hello{
 public static void main(String[] args){
-System.out.println("Bye");
+System.out.println("Hello java changed for 2nd time");
 }
 }
